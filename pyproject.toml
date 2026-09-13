@@ -9,7 +9,7 @@ description = "Human-in-the-loop support-ticket automation with policy guardrail
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Nuno" }]
+authors = [{ name = "Nuno Antunes" }]
 dependencies = []
 
 [project.optional-dependencies]
